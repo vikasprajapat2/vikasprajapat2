@@ -7,7 +7,7 @@ Welcome to my GitHub haven! I am an AI Engineer specializing in cutting-edge art
 - **🎓 Learning Curve**: Exploring [e.g., advanced reinforcement learning, large language models].
 - **🤝 Collaboration**: Open to partnerships on [e.g., AI research, scalable ML frameworks].
 - **💡 Expertise**: Proficient in [e.g., deep learning optimization, NLP pipeline design].
-- **📧 Contact**: [your email or preferred contact method]
+- **📧 Contact**: [vikasprajapat34118@gmail.com]
 - **🎉 Fun Fact**: [e.g., I built an AI to optimize my daily schedule—saving hours weekly!]
 - **🕒 Last Updated**: 03:01 PM IST, Wednesday, August 27, 2025
 

@@ -1,14 +1,21 @@
-<br /># Vikas Prajapat | AI Engineer 👨‍💻
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Vikas Prajapat</h1>
+<h3 align="center">🚀 AI Engineer | Machine Learning | Computer Vision | Generative AI</h3>
 
-Welcome to my GitHub haven! I am an AI Engineer specializing in cutting-edge artificial intelligence, generative AI, computer vision, machine learning, data science, machine vision, and natural language processing. My mission is to craft innovative solutions that transform data into actionable insights and push the boundaries of technology.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=F75C7E&center=true&vCenter=true&lines=AI+Engineer+%F0%9F%92%BB;Machine+Learning+%F0%9F%9A%80;Generative+AI+%F0%9F%A4%96;Computer+Vision+%F0%9F%91%81;Data+Science+%F0%9F%93%88;Always+Learning+%F0%9F%92%A1" alt="Typing Animation">
+</p>
+
+---
 
 ## 🌟 About Me
-- **🔬 Current Focus**: Developing [e.g., state-of-the-art generative AI models, real-time vision systems].
-- **🎓 Learning Curve**: Exploring [e.g., advanced reinforcement learning, large language models].
-- **🤝 Collaboration**: Open to partnerships on [e.g., AI research, scalable ML frameworks].
-- **💡 Expertise**: Proficient in [e.g., deep learning optimization, NLP pipeline design].
-- **🎉 Fun Fact**: [e.g., I built an AI to optimize my daily schedule—saving hours weekly!]
-- **🕒 Last Updated**: 03:01 PM IST, Wednesday, August 27, 2025
+- 🔬 **Current Focus**: Building state-of-the-art **Generative AI models** & **Real-time Vision Systems**.  
+- 🎓 **Learning**: Exploring **Reinforcement Learning** & **Large Language Models (LLMs)**.  
+- 🤝 **Collaboration**: Open to AI research & scalable ML projects.  
+- 💡 **Expertise**: Deep Learning optimization, NLP pipeline design, CV solutions.  
+- 🎉 **Fun Fact**: I once built an AI to optimize my daily schedule—saved me hours weekly!  
+
+---
 
 ## 🛠️ Technical Proficiencies  
 
@@ -38,27 +45,51 @@ Welcome to my GitHub haven! I am an AI Engineer specializing in cutting-edge art
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)  
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)  
 
+---
 
 ## 🚀 Featured Projects
-- **[GenAI Text Generator](link-to-repo)**: A state-of-the-art generative AI model leveraging PyTorch for dynamic text synthesis.  
+- **[GenAI Text Generator](link-to-repo)**: PyTorch-powered model for creative text synthesis.  
   ![Demo](https://media.giphy.com/media/l0HlRnAWXxn0vpkxO/giphy.gif)
-- **[Real-Time Vision System](link-to-repo)**: An OpenCV-based solution for object detection and tracking in live feeds.  
+
+- **[Real-Time Vision System](link-to-repo)**: OpenCV-based object detection & tracking.  
   ![Demo](https://media.giphy.com/media/3o7TKTDn831nK15FK0/giphy.gif)
-- **[NLP Chatbot](link-to-repo)**: A robust chatbot using TensorFlow, optimized for natural language understanding.  
+
+- **[NLP Chatbot](link-to-repo)**: TensorFlow chatbot with NLU pipeline.  
   ![Demo](https://media.giphy.com/media/26BRv0ZILaGqE8RLS/giphy.gif)
 
-## 📈 Impact & Contributions
-- **Publications**: [e.g., Research papers on CVPR or NeurIPS, if applicable—add links].
-- **Open Source**: Active contributor to [e.g., TensorFlow, OpenCV—add repositories].
-- **Certifications**: [e.g., DeepLearning.AI, AWS Certified Machine Learning, etc.—add credentials].
+---
 
 ## 📊 GitHub Insights
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikasprajapat2&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasprajapat2&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vikasprajapat&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasprajapat&layout=compact&theme=radical" height="180"/>
+</p>
 
-## 🌐 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-profile) | [Portfolio](https://your-portfolio-or-blog.com)  
-- **Availability**: Open for consulting or full-time roles as of August 2025.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasprajapat&theme=radical" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vikasprajapat&theme=radical&margin-w=5&margin-h=5"/>
+</p>
+
+---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/vikas-prajapat" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://twitter.com/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"/>
+  </a>
+  <a href="https://your-portfolio-or-blog.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=firefox"/>
+  </a>
+</p>
+
+---
 
 ## 🎯 Vision
-I aim to democratize AI technologies, making advanced tools accessible to all while driving innovation in intelligent systems. Let’s collaborate to shape the future!
+> I aim to **democratize AI technologies**, making advanced tools accessible to all while driving innovation in intelligent systems.  
+> Let’s collaborate to shape the **future of AI 🚀**  

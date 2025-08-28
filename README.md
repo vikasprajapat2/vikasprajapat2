@@ -7,7 +7,6 @@ Welcome to my GitHub haven! I am an AI Engineer specializing in cutting-edge art
 - **🎓 Learning Curve**: Exploring [e.g., advanced reinforcement learning, large language models].
 - **🤝 Collaboration**: Open to partnerships on [e.g., AI research, scalable ML frameworks].
 - **💡 Expertise**: Proficient in [e.g., deep learning optimization, NLP pipeline design].
-- **📧 Contact**: [vikasprajapat34118@gmail.com]
 - **🎉 Fun Fact**: [e.g., I built an AI to optimize my daily schedule—saving hours weekly!]
 - **🕒 Last Updated**: 03:01 PM IST, Wednesday, August 27, 2025
 
@@ -35,8 +34,8 @@ Welcome to my GitHub haven! I am an AI Engineer specializing in cutting-edge art
 - **Certifications**: [e.g., DeepLearning.AI, AWS Certified Machine Learning, etc.—add credentials].
 
 ## 📊 GitHub Insights
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikasprajapat&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasprajapat&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikasprajapat2&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasprajapat2&layout=compact&theme=radical)
 
 ## 🌐 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/your-profile) | [Twitter](https://twitter.com/your-profile) | [Portfolio](https://your-portfolio-or-blog.com)  
